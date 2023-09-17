@@ -1,5 +1,5 @@
 # Coding-Future
-O Coding Future tem como por objetivo ajudar, mutualmente, estudantes de tecnologia em seus diversos niveis de habilidade aqui, no nosso amado Brasil. Esperamos encontrar aqui um nó em conhecimento, de varias plataformas diferentes e em varias linguagens distintas,
+O Coding Future tem como por objetivo ajudar, mutualmente, estudantes de tecnologia em seus diversos niveis de habilidade aqui, no nosso amado Brasil. Esperamos encontrar aqui um nó em conhecimento, de varias plataformas diferentes e em varias linguagens distintas.
 
 # Coding Challenges Community
 
